@@ -20,7 +20,7 @@ La investigación permitió identificar las distintas fases del incidente, desde
 | Reconnaissance | Active Scanning | [T1595](https://attack.mitre.org/techniques/T1595/) |
 | Discovery | Network Service Discovery | [T1046](https://attack.mitre.org/techniques/T1046/) |
 | Discovery | File and Directory Discovery | [T1083](https://attack.mitre.org/techniques/T1083/) |
-| Credential Access | Brute Force (Password Guessing) | [T1110.001](https://attack.mitre.org/techniques/T1110/001/) |
-| Initial Access | Valid Accounts | [T1078](https://attack.mitre.org/techniques/T1078/) |
-| Execution | Command and Scripting Interpreter: Unix Shell | [T1059.004](https://attack.mitre.org/techniques/T1059/004/) |
-| Persistence | Scheduled Task/Job: Cron | [T1053.003](https://attack.mitre.org/techniques/T1053/003/) |
+| Credential Access | Brute Force > Password Guessing | [T1110.001](https://attack.mitre.org/techniques/T1110/001/) |
+| Initial Access | Valid Accounts > Default Accounts | [T1078.001](https://attack.mitre.org/techniques/T1078/001/) |
+| Execution | Command and Scripting Interpreter > Unix Shell | [T1059.004](https://attack.mitre.org/techniques/T1059/004/) |
+| Persistence | Scheduled Task/Job > Cron | [T1053.003](https://attack.mitre.org/techniques/T1053/003/) |
